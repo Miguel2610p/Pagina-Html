@@ -8,6 +8,10 @@ body {
     font-family: 'open sans';
 }
 
+html {
+    scroll-behavior: smooth;
+  }
+  
 .contenedor {
     padding: 60px 0;
     width: 90%;
